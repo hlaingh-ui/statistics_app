@@ -5,11 +5,10 @@ import seaborn as sns
 import io
 
 st.set_page_config(page_title="Universal Excel Data Explorer", page_icon="📊", layout="wide")
-
 st.markdown(
     """
-    <div style='text-align: right; font-size: 16px; margin-bottom: -20px;'>
-        👨‍💻 <a href="https://koyaw.online/CV/HAH_CV.php" target="_blank" style="text-decoration: none; color: #2e86de;">
+    <div style='text-align: right; font-size:16px; margin-bottom: -20px;'>
+        👨‍💻 <a href="https://koyaw.online/CV/HAH_CV.php" target="_blank" style="text-decoration:none; color:#2e86de;">
         Developer – <b>Htet Aung Hlaing</b>
         </a>
     </div>
